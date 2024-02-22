@@ -1,0 +1,17 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Recording1.UserCode.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Demo01.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Recording1.UserCode.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections">
+      <Element value="Demo01.Recording1.getDataFromDB()" />
+      <Element value="Demo01.Recording1.getDataFromDB()" />
+    </Array>
+  </Properties>
+</Properties>
