@@ -85,7 +85,7 @@ namespace Demo01
         public void Validate_ButtonOui(RepoItemInfo buttonInfo)
         {
             Report.Log(ReportLevel.Info, "Validation", "Validating AttributeEqual ((Choose)='aaaa') on item 'buttonInfo'.", buttonInfo);
-            Validate.AttributeEqual(buttonInfo, "(Choose)", "aaaa");
+            Validate.AttributeEqual(buttonInfo, "(Choose)", "aaaabbbb");
         }
 
     }
